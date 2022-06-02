@@ -1,4 +1,4 @@
-# AplikacjaHuta
+# Aplikacja przemysłowa - huta
 Niniejsza aplikacja była projektem z przedmiotu Programowanie równoległę i rozporszone na VIII semestrze kierunku Informatyka Przemysłowa. 
 Jest graficzną aplikacją działającą w trybie rozproszonym, wykorzystującą programowanie wielowątkowe. 
 Utworzona jako projekt Windows Forms (.NET), w języku C#. 
